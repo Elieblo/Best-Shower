@@ -3,12 +3,13 @@ body{
 }
 
 h1 {
-    font-family: arial black, Helvetica;
-    color:white;
+    font-family: arial black, helvetica;
+    color: white;
     font-size: 70px;
     text-align: center;
     position: center;
     line-height: 100px;
+    font-weight: bolder;
 }
 
 @media screen and (max-width: 693px) {
