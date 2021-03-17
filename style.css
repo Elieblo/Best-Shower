@@ -245,6 +245,7 @@ input[name="controls"] {display: none;}
 	border-left-style: none;
 	border-right-style: none;
 	border-bottom-style: none;
+	position: fixed;
 }
 
 .footer h3 {
