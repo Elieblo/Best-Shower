@@ -6,7 +6,7 @@
 
 De plus, il est possible pour l'utilisateur d'activer une alerte disant "Arretez d'utiliser l'eau s'il vous plait". Exemple : si une personne utilise de l'eau (pour faire la vaisselle, tirer la chasse...), alors la personne qui est sous la douche n'a pas d'eau chaude. Ainsi, la personne sous la douche déclenhe l'alarme, et les personnes présentes dans la maison sont averties.
 
-A cela s'ajoute la possibilité d'envoyer ses résultats à la fin de chaques douches, et le dimanche recevoir par mail un récapitulatif : temps total, temps moyen, utilisation totale d'eau.
+A cela s'ajoute la possibilité d'envoyer ses résultats à la fin de chaque douche, et le dimanche recevoir par mail un récapitulatif : temps total, temps moyen, utilisation totale d'eau.
 
 L'objectif est aussi écologique et économique, puisque le chronomètre nous permet de se rendre compte du temps passé sous la douche.
 
