@@ -29,7 +29,7 @@ De jours en jours, j'essaye d'améliorer Best Shower, afin de rentre son utilisa
 Il est tout à fait possible de m'aider à améliorer mon projet. Vous pouvez me partager du aussi bien du code, que des conseils par mail. Je vous en serai reconnaissant.
 
 ### Auteur :
-*Elie B.* joignable par mail à elieb.other@gmail.com.
+*Elie B.* joignable par mail à elieb.other@gmail.com ou concernant le projet : best4shower@gmail.com.
 
 
 #### Enjoy !
