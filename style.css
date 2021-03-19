@@ -494,7 +494,7 @@ h1::selection {
 	color: rgb(240, 106, 106);
 	font-size: 17px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	margin: 10px;
+	margin: 5px;
 }
 
 input[type=text] {
