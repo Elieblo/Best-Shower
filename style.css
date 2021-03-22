@@ -253,10 +253,22 @@ input[name="controls"] {display: none;}
 }
 
 @media screen and (max-width: 693px) {
-    .footer h3, p, h4 {
+    .footer h3, p, h4, img {
 		margin-left: 0;
 		text-align: center;
 	}
+}
+
+.footer img {
+	width: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer img:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
 }
 
 .footer a {
