@@ -546,7 +546,7 @@ button[type=submit]:hover {
 	color: rgb(96, 111, 161);
 }
 
-.arretez:focus + hide {
+.arretez:focus + .hide {
 	display: block;
 	color: rgb(96, 111, 161);
 }
