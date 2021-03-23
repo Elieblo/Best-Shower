@@ -562,3 +562,91 @@ button[type=submit]:hover {
 	display: block;
 	color: rgb(96, 111, 161);
 }
+
+
+
+/**Contdown**/
+
+.contdown {
+	text-align: center;
+	margin-top: 60px;
+} 
+
+
+.contdown h2 {
+	color: white;
+	font-family: Helvetica;
+	font-size: 35px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 20px;
+}
+
+.contdown h3 {
+	background-color: white;
+	color: rgb(95, 90, 90);
+	font-size: 40px;
+	font-family: Arial Black;
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10%;
+	margin-top: -30px;
+	border: 5px dashed rgb(95, 90, 90);
+}
+
+.counters {
+	margin: 20px;
+}	
+.counter {
+	display: inline-block;
+	min-width: 100px;
+	font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+	border: 2px solid;
+	color: white;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.counter > p {
+	text-transform: uppercase;
+	background: #b8b8b8;
+	padding: 8px;
+	font-family: sans-serif;
+	border-radius: 0px 0px 7px 7px;
+}
+
+span {
+	display: block;
+	height: 125px;
+	font-size: 50px;
+	line-height: 125px;
+}
+
+
+.wait {
+	margin-top: 120px;
+}
+
+.wait h2 {
+	text-align: center;
+	margin-right: 15px;
+	margin-left: 15px;
+	border-top: 3px dashed white;
+	padding-top: 20px;
+	font-size: 30px;
+	color: rgb(255, 215, 162);
+	line-height: 45px;
+	font-family: Helvetica;
+}
+
+.wait img {
+	width: 100px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wait img:hover {
+	transform: scale(1.3);
+	transition: 1s;
+}
