@@ -32,3 +32,14 @@ var x = setInterval(function() {
     document.getElementById("seconds").innerHTML = "00";
   }
 }, 1000);
+
+
+
+function compris() {
+  var x = document.getElementById("okcompris");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
