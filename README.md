@@ -15,12 +15,15 @@ Sachez que Best Shower est entièrement gratuit.
 Plus d'infos sur le projet en général : https://www.youtube.com/watch?v=GERhOgSi9-0.
 
 
+
 ### Informations - News :
 Best Shower sortira officiellement début avril.
 Pour plus d'infos, contactez nous par mail : best4shower@gmail.com.
 
+
 ### Prérequis :
 Avant de prendre votre douche, veillez à connecter votre téléphone à une enceinte Bluetooth, et que le son peut être entendu en cas d'alerte.
+
 
 ### Améliorations possibles :
 De jours en jours, nous essayons d'améliorer Best Shower, afin de rentre son utilisation encore plus instructive et utile. Beaucoup d'améliorations sont possibles, et sont en cours de création. En voici quelques-unes :
@@ -28,8 +31,10 @@ De jours en jours, nous essayons d'améliorer Best Shower, afin de rentre son ut
 - Possibilité d'avoir un minuteur qui avertit avec une sonnerie un temps préréglé par l'utilisateur.
 - Possibilité d'avoir une commande vocale, pour commencer le chronomètre, ou l'arrêter, activer l'alerte, etc...
 
+
 ### Contribution :
 Il est tout à fait possible de m'aider à améliorer mon projet. Vous pouvez me partager du aussi bien du code, que des conseils par mail. Je vous en serai reconnaissant.
+
 
 ### Auteur :
 *Elie B.* joignable par mail à elieb.other@gmail.com ou concernant le projet : best4shower@gmail.com.
